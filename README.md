@@ -1,5 +1,5 @@
-# Automatic-Document-Classification-System-Focussing-On-Utility-Bills
-This is a project about automatic document classification system focussing on utility bills (Electric and Water bills).
+# Automated-Document-Classification-System-Focussing-On-Utility-Bills
+This is a project about automated document classification system focussing on utility bills (Electric and Water bills).
 
 Step to clone this project: <br/>
 
